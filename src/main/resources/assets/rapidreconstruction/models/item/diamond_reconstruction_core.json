@@ -1,0 +1,6 @@
+{
+	"parent":"item/generated",
+	"textures":{
+		"layer0":"rapidreconstruction:items/diamond_reconstruction_core"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern":["GEG",
+			   "GSG",
+			   "GEG"],
+	"key":{
+		"E":{
+			"item":"minecraft:end_crystal"
+		},
+		"S":{
+			"item":"minecraft:nether_star"
+		},
+		"G":{
+			"item":"minecraft:gold_block"
+		}
+	},
+	"result":{
+		"item":"rapidreconstruction:gold_reconstruction_core"
+	}
+}

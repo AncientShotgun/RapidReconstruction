@@ -1,0 +1,20 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern":[" N ",
+			   "HCH",
+			   " N "],
+	"key":{
+		"N":{
+			"item":"rapidreconstruction:nominal_reconstruction_amulet"
+		},
+		"C":{
+			"item":"rapidreconstruction:emerald_reconstruction_core"
+		},
+		"H":{
+			"item":"minecraft:shulker_shell"
+		}
+	},
+	"result":{
+		"item":"rapidreconstruction:greater_reconstruction_amulet"
+	}
+}

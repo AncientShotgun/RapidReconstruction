@@ -1,0 +1,20 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern":[" L ",
+			   "HCH",
+			   " L "],
+	"key":{
+		"L":{
+			"item":"rapidreconstruction:lesser_reconstruction_amulet"
+		},
+		"C":{
+			"item":"rapidreconstruction:diamond_reconstruction_core"
+		},
+		"H":{
+			"item":"minecraft:shulker_shell"
+		}
+	},
+	"result":{
+		"item":"rapidreconstruction:nominal_reconstruction_amulet"
+	}
+}

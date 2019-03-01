@@ -1,0 +1,20 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern":["DCD",
+			   "DSD",
+		       "DCD"],
+	"key":{
+		"S":{
+			"item":"minecraft:nether_star"
+		},
+		"C":{
+			"item":"rapidreconstruction:gold_reconstruction_core"
+		},
+		"D":{
+			"item":"minecraft:diamond_block"
+		}
+	},
+	"result":{
+		"item":"rapidreconstruction:diamond_reconstruction_core"
+	}
+}

@@ -1,0 +1,13 @@
+#Items
+item.rapidreconstruction.reconstructionAmuletLesser.name=Lesser Reconstruction Amulet
+item.rapidreconstruction.reconstructionAmuletNominal.name=Nominal Reconstruction Amulet
+item.rapidreconstruction.reconstructionAmuletGreater.name=Greater Reconstruction Amulet
+item.rapidreconstruction.reconstructionCoreGold.name=Gold Reconstruction Core
+item.rapidreconstruction.reconstructionCoreDiamond.name=Diamond Reconstruction Core
+item.rapidreconstruction.reconstructionCoreEmerald.name=Emerald Reconstruction Core
+
+#Creative Tab
+itemGroup.rapidreconstruction.tabRapidReconstruction=Rapid Reconstruction
+
+#Config GUI
+rapidreconstruction.config.title=Rapid Reconstruction Config

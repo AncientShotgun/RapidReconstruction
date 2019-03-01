@@ -1,0 +1,14 @@
+[{
+	"modid":"rapidreconstruction",
+	"name":"Rapid Reconstruction",
+	"description":"For those moments when your Arc Furnace electrode is at 1000 of 96000 durability.",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url":"",
+	"updateJson":"",
+	"authorList":["AncientShotgun"],
+	"credits":"",
+	"logofile":"",
+	"screenshots":[],
+	"dependencies":["mod_MinecraftForge"]
+}]
